@@ -1,0 +1,21 @@
+body{
+
+    background: #ffffff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0044ff, #43ff22);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1dff2c, #578543); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.p{
+    text-decoration-color: rgb(241, 172, 172);
+}
+
+
+.sec{
+    text-align: justify left;
+    text-decoration: solid;
+    text-size-adjust: rgb(156, 82, 82);
+    width: 50%;
+    height: 10%;
+    
+
+}
